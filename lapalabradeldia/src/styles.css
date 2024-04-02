@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background: #f2f2f2;
+}
+
+header nav {
+  background: #d88529;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0;
+}
+header h1 {
+  width: 25%;
+  padding: 30px;
+  color: white;
+  font-size: 30px;
+}
+header ul {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+header li {
+  list-style: none;
+  margin-right: 30px;
+  font-size: 20px;
+}/*# sourceMappingURL=styles.css.map */

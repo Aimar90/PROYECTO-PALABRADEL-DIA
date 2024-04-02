@@ -1,0 +1,6 @@
+<div class="filas">
+  <app-celdas *ngFor="let celda of celdas; index as i" 
+  [palabra]="palabra"
+  [letras]="letra[i]" 
+  [(ngModel)]="opcion" (keyup)="verificar()" ></app-celdas>
+</div>
