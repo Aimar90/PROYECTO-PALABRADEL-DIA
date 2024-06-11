@@ -1,0 +1,9 @@
+<div class="filas">
+  <app-celdas *ngFor="let celda of celdas; index as i" 
+  [css]="celda.css"
+  [id]="celda.id"
+  [activarInput]="filaActiva"
+  (caracterCelda)="CaracterCelda($event)"
+  ></app-celdas>
+
+</div>

@@ -1,0 +1,21 @@
+input[type=text] {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.correcto {
+  background: green;
+}
+
+.abstenido {
+  background: #756D6C;
+}
+
+.presente {
+  background: orangered;
+}/*# sourceMappingURL=celdas.component.css.map */

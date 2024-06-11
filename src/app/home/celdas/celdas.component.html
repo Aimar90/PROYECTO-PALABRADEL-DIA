@@ -1,0 +1,2 @@
+<input type="text" [(ngModel)]="text" [maxlength]="1" [className]="css" name="celda" [disabled]="!activarInput" (input)="enviarCaracter()"  (keydown)="allowOnlyLetters($event)"
+(paste)="handlePaste($event)" autocomplete="off" #inputCelda>

@@ -1,0 +1,20 @@
+.btn.btn-primary {
+  padding: 10px;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  color: #c55c5c;
+}
+.btn.btn-primary:hover {
+  background-color: #0b5ed7;
+  border-color: #0a58ca;
+}
+.btn.btn-primary:active {
+  background-color: #0a58ca;
+  border-color: #0a53be;
+  box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+}
+.btn.btn-primary:disabled {
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  color: #fff;
+}/*# sourceMappingURL=tablero.component.css.map */

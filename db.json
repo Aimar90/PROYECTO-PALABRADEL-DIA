@@ -1,0 +1,191 @@
+{
+  "palabras": [
+    {
+      "id": 1,
+      "palabra": "piano",
+      "tamanio": 5,
+      "dificultad": "facil"
+    },
+    {
+      "id": 2,
+      "palabra": "pluma",
+      "tamanio": 5,
+      "dificultad": "facil"
+    },
+    {
+      "id": 3,
+      "palabra": "flor",
+      "tamanio": 5,
+      "dificultad": "facil"
+    },
+    {
+      "id": 4,
+      "palabra": "niño",
+      "tamanio": 5,
+      "dificultad": "facil"
+    },
+    {
+      "id": 5,
+      "palabra": "perro",
+      "tamanio": 5,
+      "dificultad": "facil"
+    },
+    {
+      "id": 6,
+      "palabra": "gatos",
+      "tamanio": 5,
+      "dificultad": "facil"
+    },
+    {
+      "id": 7,
+      "palabra": "libro",
+      "tamanio": 5,
+      "dificultad": "facil"
+    },
+    {
+      "id": 8,
+      "palabra": "mesa",
+      "tamanio": 5,
+      "dificultad": "facil"
+    },
+    {
+      "id": 9,
+      "palabra": "lapiz",
+      "tamanio": 5,
+      "dificultad": "facil"
+    },
+    {
+      "id": 10,
+      "palabra": "salud",
+      "tamanio": 5,
+      "dificultad": "facil"
+    },
+    {
+      "id": 11,
+      "palabra": "roman",
+      "tamanio": 5,
+      "dificultad": "medio"
+    },
+    {
+      "id": 12,
+      "palabra": "arbol",
+      "tamanio": 5,
+      "dificultad": "medio"
+    },
+    {
+      "id": 13,
+      "palabra": "fuego",
+      "tamanio": 5,
+      "dificultad": "medio"
+    },
+    {
+      "id": 14,
+      "palabra": "raton",
+      "tamanio": 5,
+      "dificultad": "medio"
+    },
+    {
+      "id": 15,
+      "palabra": "cielo",
+      "tamanio": 5,
+      "dificultad": "medio"
+    },
+    {
+      "id": 16,
+      "palabra": "reina",
+      "tamanio": 5,
+      "dificultad": "medio"
+    },
+    {
+      "id": 17,
+      "palabra": "pista",
+      "tamanio": 5,
+      "dificultad": "medio"
+    },
+    {
+      "id": 18,
+      "palabra": "primo",
+      "tamanio": 5,
+      "dificultad": "medio"
+    },
+    {
+      "id": 19,
+      "palabra": "helio",
+      "tamanio": 5,
+      "dificultad": "medio"
+    },
+    {
+      "id": 20,
+      "palabra": "verde",
+      "tamanio": 5,
+      "dificultad": "medio"
+    },
+    {
+      "id": 21,
+      "palabra": "bruja",
+      "tamanio": 5,
+      "dificultad": "dificil"
+    },
+    {
+      "id": 22,
+      "palabra": "reloj",
+      "tamanio": 5,
+      "dificultad": "dificil"
+    },
+    {
+      "id": 23,
+      "palabra": "extra",
+      "tamanio": 5,
+      "dificultad": "dificil"
+    },
+    {
+      "id": 24,
+      "palabra": "traje",
+      "tamanio": 5,
+      "dificultad": "dificil"
+    },
+    {
+      "id": 25,
+      "palabra": "yelmo",
+      "tamanio": 5,
+      "dificultad": "dificil"
+    },
+    {
+      "id": 26,
+      "palabra": "temor",
+      "tamanio": 5,
+      "dificultad": "dificil"
+    },
+    {
+      "id": 27,
+      "palabra": "globo",
+      "tamanio": 5,
+      "dificultad": "dificil"
+    },
+    {
+      "id": 28,
+      "palabra": "pulga",
+      "tamanio": 5,
+      "dificultad": "dificil"
+    },
+    {
+      "id": 29,
+      "palabra": "lente",
+      "tamanio": 5,
+      "dificultad": "dificil"
+    },
+    {
+      "id": 30,
+      "palabra": "tigre",
+      "tamanio": 5,
+      "dificultad": "dificil"
+    }
+  ],
+
+  "USERS": [
+    {
+      "username": "Repetiremos-Materia",
+      "password": "1234"
+    }
+  ]
+}
